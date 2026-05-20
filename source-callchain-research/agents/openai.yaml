@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Callchain Research"
+  short_description: "Read source and trace execution paths."
+  default_prompt: "Use $source-callchain-research to trace this code path and summarize the call chain with file-backed evidence."
