@@ -1,0 +1,4 @@
+interface:
+  display_name: "Structured Code Analysis"
+  short_description: "Conclusion-first code analysis output"
+  default_prompt: "Analyze code and present findings with conclusion first, concise tables, and impact-focused sections."
